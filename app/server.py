@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/open?id=1JEkxH2mFpcpW2xgX7298KQNTY2af39wx'
+export_file_url = 'https://drive.google.com/open?id=11_rdhnpazM8yHyNrPRRRNEYarbs8gpOl'
 export_file_name = 'export.pkl'
 
 classes = ['asagakita', 'amachan']
